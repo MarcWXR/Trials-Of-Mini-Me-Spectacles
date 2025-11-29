@@ -8,7 +8,7 @@ There are also a few behaviours set up for starting and ending the timer (Timer 
 All of the scripts are commented and easy to configure because thats the way I like it! :-)
 
 # Why
-I feel in love with the Bluetooth game controller! I love playing games with a controller and I have a passion for puzzle platformers. I wanted to create a game that works in the users space in a way that felt intuitive and combined the hand interactions with a familiar platform game movement. 
+I fell in love with the Bluetooth game controller! I love playing games with a controller and I have a passion for puzzle platformers. I wanted to create a game that works in the users space in a way that felt intuitive and combined the hand interactions with a familiar platform game movement. 
 The Spectacles Bitmoji Character Controller set up did not have a real jump configured, it only played the jump animation so I copied the relevent code across from the Snap Lens example project and added it to this one. Hopefully this makes it a lot easier for others to create these types of games in anticipation of the bluetooth game controller API moving from experimental status.
 
 
